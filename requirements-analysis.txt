@@ -1,0 +1,10 @@
+# Install in conda environment prompt2. Container dependencies live in Dockerfile.
+deepagents==0.7.30
+deepagents-docker==0.1.2
+langchain==1.4.7
+langchain-openai==1.7.2
+langgraph==1.2.16
+python-dotenv==1.2.1
+pydantic==2.14.1
+plotly==5.24.1
+pytest>=8.3,<9
